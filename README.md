@@ -12,7 +12,7 @@ St, FBD, modbus (Modbus Poll для отладки напрямую), OPC UA (UA
 Что-то здесь позже напишу... как будет время...
 
 ## PLC
-Siemens(Важно: TiaPortal), Alan Bredley, Honeywell(Altronika), Codesys (ProSoft, Tabak), Yokogawa - порядок идет по приоритетности навыков и по популярности
+Siemens(Важно: TiaPortal), Alan Bredley, Honeywell(Altronika), Codesys (ProSoft, Tabak), Yokogawa - порядок идет по приоритетности навыков и по популярности. Существуют и российские вендоры ПЛК с их ПО и да они часто используются в Газпроме и подобных компаниях, они часто более примитивны, но принцип + - один и тот же.
 
 ## HMI
 Weintek(Easy builder)
