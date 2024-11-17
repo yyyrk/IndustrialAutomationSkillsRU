@@ -9,6 +9,7 @@
 St, FBD, modbus (Modbus Poll для отладки напрямую), OPC UA (UA Expert/OPC explorer/Matrikon) rtu/tcp, TCP/IP, сети, скриптинг (на выбор: python или c#), git, типы данных (из двоичной и обратно), excel (vba), SQL/PostgreSQL, Linux + bash/shell, виртуализация
 
 ## Электрика, слаботочка
+Что-то здесь позже напишу... как будет время...
 
 ## PLC
 Siemens(Важно: TiaPortal), Alan Bredley, Honeywell(Altronika), Codesys (ProSoft, Tabak), Yokogawa - порядок идет по приоритетности навыков и по популярности
